@@ -1,0 +1,5 @@
+# PythonOCC
+scipy
+wx
+traits
+traitsui
